@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @Oumaymabamoh
-- 👀 I’m interested in everthing data science 
+- 👀 I’m interested in everything data science 
 - 📚 I'm currently studying data science at the University of IU.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/oumaymabamoh/)
 
