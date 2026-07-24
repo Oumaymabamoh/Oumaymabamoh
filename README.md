@@ -1,4 +1,4 @@
-## 👋🏻 Hey, I’m Oumayma
+## Hey, I’m Oumayma 👋🏼
 
 ### About me 👀
 I possess a comprehensive interest in all aspects of data science, analytic & machine learning, 
