@@ -1,11 +1,11 @@
 ## Hey, I’m Oumayma 👋🏼
 
-### About me ✍︎
+### About me 
 I possess a comprehensive interest in all aspects of data science, analytic & machine learning, 
 <br>
 from its foundational principles to advanced applications.
 
-### Get in touch ☕︎
+### Get in touch 
 
 Find me on [Portfolio](https://oumaymabamoh.github.io/) <br>
 
