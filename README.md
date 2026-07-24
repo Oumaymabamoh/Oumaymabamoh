@@ -9,11 +9,9 @@ from its foundational principles to advanced applications.
 ### Get in touch 🤝
 <br>
 
-🔍[in](https://www.linkedin.com/in/oumaymabamoh/)
+🔍 [in](https://www.linkedin.com/in/oumaymabamoh/)  <br>
 
-<br>
-
-💼[me](https://www.linkedin.com/in/oumaymabamoh/)
+💼 [me](https://www.linkedin.com/in/oumaymabamoh/)
 
 
 
