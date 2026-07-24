@@ -7,7 +7,7 @@ I possess a comprehensive interest in all aspects of data science, analytic & ma
 from its foundational principles to advanced applications.
 
 ### Get in touch 🤝
-[<img width="25" height="25" alt="link" src="https://github.com/user-attachments/assets/2e7fcc1d-1bdd-46b0-8957-6f422432db7d" />](https://www.linkedin.com/in/oumaymabamoh/)
+[<img width="9" height="9" alt="link" src="https://github.com/user-attachments/assets/2e7fcc1d-1bdd-46b0-8957-6f422432db7d" />](https://www.linkedin.com/in/oumaymabamoh/)
 [💼](https://www.linkedin.com/in/oumaymabamoh/)
 
 
