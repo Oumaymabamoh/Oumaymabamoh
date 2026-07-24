@@ -7,9 +7,9 @@ from its foundational principles to advanced applications.
 
 ### Get in touch ☕︎
 
-🔍 Find me on [Portfolio](https://oumaymabamoh.github.io/) <br>
+Find me on [Portfolio](https://oumaymabamoh.github.io/) <br>
 
-💼 Get connected on [Linkedin](https://www.linkedin.com/in/oumaymabamoh/) 
+Get connected on [Linkedin](https://www.linkedin.com/in/oumaymabamoh/) 
 
 
 
