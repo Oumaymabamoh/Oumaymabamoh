@@ -1,8 +1,9 @@
 ## 👋🏻 Hey, I’m Oumayma
 ### About me 👀
 
+**Phrase One**<br>
 I possess a comprehensive interest in all aspects of data science, analytic & machine learning, 
-* **Phrase Two**
+**Phrase Two**<br>
 from its foundational principles to advanced applications.
 
 ### Get in touch 🤝
